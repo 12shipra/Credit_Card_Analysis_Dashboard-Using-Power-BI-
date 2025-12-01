@@ -57,9 +57,8 @@ Key DAX KPIs created:
 
 - **Total Revenue:** ₹ **45M**  
 - **Total Interest Earned:** ₹ **7.84M**  
-- **Total Transactions:** **655,651**  
-- **Avg Transaction Amount**  
-- **Customer Tenure**  
+- **Total Transactions:** **655,651**   
+- **Total Customer** **10K** 
 
 ---
 
